@@ -1,2 +1,3 @@
 # Alzheimers-detection-project
-CSL2010 - Introduction to machine learning
+## CSL2010: Introduction to Machine Learning - Course Project
+
